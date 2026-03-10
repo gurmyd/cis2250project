@@ -1,5 +1,4 @@
-location,total_population,new_immigrants,established_immigrants,non_immigrants
-Canada,36328475,1328240,7033265,27042120
+province,total_population,new_immigrants,established_immigrants,non_immigrants
 Ontario,14031755,584680,3621905,9437320
 Quebec,8308480,202740,1007860,6892110
 British Columbia,4915940,197420,1228285,3319230
