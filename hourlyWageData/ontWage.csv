@@ -1,0 +1,189 @@
+﻿"Job vacancies, payroll employees, job vacancy rate, and average offered hourly wage by industry sub-sector, quarterly, unadjusted for seasonality c 1 2"
+"Frequency: Quarterly"
+"Table: 14-10-0442-01"
+"Release date: 2025-12-16"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography","Ontario",,,
+"North American Industry Classification System (NAICS) 3 4","Statistics","Q4 2018","Q1 2019","Q2 2019","Q3 2019"
+"Total, all industries 3",,"Number",,,
+,"Job vacancies 5","219,175","194,110","214,135","206,885"
+,"Payroll employees 4 6","6,320,625","6,250,860","6,263,840","6,347,510"
+,,"Percent",,,
+,"Job vacancy rate 7","3.4","3.0","3.3","3.2"
+,,"Dollars",,,
+,"Average offered hourly wage 8","21.80","22.55","22.10","22.10"
+"Agriculture, forestry, fishing and hunting  [11]",,"Number",,,
+,"Job vacancies 5","4,805","5,655","6,145","5,140"
+,"Payroll employees 4 6","64,540","50,440","57,870","71,610"
+,,"Percent",,,
+,"Job vacancy rate 7","6.9","10.1","9.6","6.7"
+,,"Dollars",,,
+,"Average offered hourly wage 8","15.20","15.20","15.70","15.90"
+"Mining, quarrying, and oil and gas extraction  [21]",,"Number",,,
+,"Job vacancies 5","660","805","775","720"
+,"Payroll employees 4 6","27,055","26,080","25,850","26,205"
+,,"Percent",,,
+,"Job vacancy rate 7","2.4","3.0","2.9","2.7"
+,,"Dollars",,,
+,"Average offered hourly wage 8","31.45","32.30","33.00","34.45"
+"Utilities  [22]",,"Number",,,
+,"Job vacancies 5","680","860","1,005","675"
+,"Payroll employees 4 6","51,790","51,505","52,795","53,380"
+,,"Percent",,,
+,"Job vacancy rate 7","1.3","1.6","1.9","1.2"
+,,"Dollars",,,
+,"Average offered hourly wage 8","35.20","34.85","34.80","36.40"
+"Construction  [23]",,"Number",,,
+,"Job vacancies 5","12,445","10,465","15,885","13,975"
+,"Payroll employees 4 6","377,355","339,010","343,205","379,170"
+,,"Percent",,,
+,"Job vacancy rate 7","3.2","3.0","4.4","3.6"
+,,"Dollars",,,
+,"Average offered hourly wage 8","23.40","23.75","23.25","22.85"
+"Manufacturing  [31-33]",,"Number",,,
+,"Job vacancies 5","19,840","18,405","17,960","17,980"
+,"Payroll employees 4 6","690,375","688,760","690,690","702,950"
+,,"Percent",,,
+,"Job vacancy rate 7","2.8","2.6","2.5","2.5"
+,,"Dollars",,,
+,"Average offered hourly wage 8","21.35","22.60","22.35","21.55"
+"Wholesale trade  [41]",,"Number",,,
+,"Job vacancies 5","9,960","9,990","10,790","10,995"
+,"Payroll employees 4 6","351,030","356,065","353,700","359,515"
+,,"Percent",,,
+,"Job vacancy rate 7","2.8","2.7","3.0","3.0"
+,,"Dollars",,,
+,"Average offered hourly wage 8","25.20","25.60","25.00","25.85"
+"Retail trade  [44-45]",,"Number",,,
+,"Job vacancies 5","29,070","16,395","22,585","24,555"
+,"Payroll employees 4 6","741,535","745,935","726,540","737,560"
+,,"Percent",,,
+,"Job vacancy rate 7","3.8","2.2","3.0","3.2"
+,,"Dollars",,,
+,"Average offered hourly wage 8","15.40","16.65","15.80","15.60"
+"Transportation and warehousing  [48-49]",,"Number",,,
+,"Job vacancies 5","9,805","7,940","9,065","8,905"
+,"Payroll employees 4 6","286,885","288,430","282,595","283,280"
+,,"Percent",,,
+,"Job vacancy rate 7","3.3","2.7","3.1","3.0"
+,,"Dollars",,,
+,"Average offered hourly wage 8","19.95","20.60","20.75","22.00"
+"Information and cultural industries  [51]",,"Number",,,
+,"Job vacancies 5","6,005","5,805","6,170","6,355"
+,"Payroll employees 4 6","152,930","152,050","153,315","156,940"
+,,"Percent",,,
+,"Job vacancy rate 7","3.8","3.7","3.9","3.9"
+,,"Dollars",,,
+,"Average offered hourly wage 8","27.50","29.00","28.85","26.35"
+"Finance and insurance  [52] 9",,"Number",,,
+,"Job vacancies 5","14,220","9,465","10,880","10,320"
+,"Payroll employees 4 6","339,500","343,180","347,095","350,950"
+,,"Percent",,,
+,"Job vacancy rate 7","4.0","2.7","3.0","2.9"
+,,"Dollars",,,
+,"Average offered hourly wage 8","30.90","31.10","32.00","33.15"
+"Real estate and rental and leasing  [53]",,"Number",,,
+,"Job vacancies 5","3,610","2,695","2,910","3,810"
+,"Payroll employees 4 6","118,835","118,115","116,240","120,220"
+,,"Percent",,,
+,"Job vacancy rate 7","2.9","2.2","2.4","3.1"
+,,"Dollars",,,
+,"Average offered hourly wage 8","22.90","22.30","21.65","25.35"
+"Professional, scientific and technical services  [54]",,"Number",,,
+,"Job vacancies 5","14,215","16,910","15,310","13,935"
+,"Payroll employees 4 6","407,595","416,430","419,515","432,800"
+,,"Percent",,,
+,"Job vacancy rate 7","3.4","3.9","3.5","3.1"
+,,"Dollars",,,
+,"Average offered hourly wage 8","31.95","31.45","30.20","30.80"
+"Management of companies and enterprises  [55] 9",,"Number",,,
+,"Job vacancies 5","645","1,215","850","920"
+,"Payroll employees 4 6","36,915","37,170","37,630","39,200"
+,,"Percent",,,
+,"Job vacancy rate 7","1.7","3.2","2.2","2.3"
+,,"Dollars",,,
+,"Average offered hourly wage 8","32.30","25.65","28.00","28.80"
+"Administrative and support, waste management and remediation services  [56]",,"Number",,,
+,"Job vacancies 5","24,755","19,365","20,555","18,670"
+,"Payroll employees 4 6","394,020","373,250","372,120","391,040"
+,,"Percent",,,
+,"Job vacancy rate 7","5.9","4.9","5.2","4.6"
+,,"Dollars",,,
+,"Average offered hourly wage 8","18.40","19.10","18.85","18.65"
+"Educational services  [61]",,"Number",,,
+,"Job vacancies 5","7,125","6,110","7,240","5,560"
+,"Payroll employees 4 6","523,870","538,295","544,450","429,165"
+,,"Percent",,,
+,"Job vacancy rate 7","1.3","1.1","1.3","1.3"
+,,"Dollars",,,
+,"Average offered hourly wage 8","25.95","27.00","26.75","26.55"
+"Health care and social assistance  [62]",,"Number",,,
+,"Job vacancies 5","24,150","24,740","24,380","24,625"
+,"Payroll employees 4 6","734,015","734,995","732,350","746,185"
+,,"Percent",,,
+,"Job vacancy rate 7","3.2","3.3","3.2","3.2"
+,,"Dollars",,,
+,"Average offered hourly wage 8","24.95","25.10","25.50","25.60"
+"Arts, entertainment and recreation  [71]",,"Number",,,
+,"Job vacancies 5","5,275","9,120","7,265","4,415"
+,"Payroll employees 4 6","118,345","104,320","113,105","132,970"
+,,"Percent",,,
+,"Job vacancy rate 7","4.3","8.0","6.0","3.2"
+,,"Dollars",,,
+,"Average offered hourly wage 8","16.75","16.05","15.95","16.70"
+"Accommodation and food services  [72]",,"Number",,,
+,"Job vacancies 5","21,500","17,920","22,680","23,070"
+,"Payroll employees 4 6","498,990","485,165","490,190","515,960"
+,,"Percent",,,
+,"Job vacancy rate 7","4.1","3.6","4.4","4.3"
+,,"Dollars",,,
+,"Average offered hourly wage 8","14.65","14.75","14.60","14.55"
+"Other services (except public administration)  [81] 10",,"Number",,,
+,"Job vacancies 5","7,660","6,745","8,485","9,370"
+,"Payroll employees 4 6","202,355","200,720","200,670","204,045"
+,,"Percent",,,
+,"Job vacancy rate 7","3.6","3.2","4.1","4.4"
+,,"Dollars",,,
+,"Average offered hourly wage 8","21.50","20.65","19.85","20.60"
+"Public administration  [91] 11",,"Number",,,
+,"Job vacancies 5","2,745","3,505","3,205","2,885"
+,"Payroll employees 4 6","202,695","200,935","203,925","214,365"
+,,"Percent",,,
+,"Job vacancy rate 7","1.3","1.7","1.5","1.3"
+,,"Dollars",,,
+,"Average offered hourly wage 8","27.20","24.70","28.90","27.40"
+
+Symbol legend:
+E, use with caution
+A, data quality: excellent
+B, data quality: very good
+C, data quality: good
+D, data quality: acceptable
+
+
+"Table Corrections:"
+Date,Note
+"2024-04-12","On April 12, 2024, average offered hourly wage estimates have been corrected for the Q4 2023 reference period."
+
+
+
+Footnotes:
+1,"Data quality indicators are based on the coefficient of variation (CV), the non-response errors, the imputation errors, and subject matter expertise: A – Excellent; B - Very good; C - Good; D – Acceptable; E - Use with caution; F - Too unreliable to publish."
+2,"Data for the second and third quarters of 2020 are unavailable due to some Statistics Canada operations being temporarily suspended during the COVID-19 pandemic."
+3,"Industry estimates are based on the <a href="https://www.statcan.gc.ca/en/subjects/standard/naics/2022/v1/index" rel="external noopener noreferrer" target="_blank">2022 North American Industry Classification System (NAICS) Version 1.0 (opens new window)</a>. The following categories are excluded from the survey: 'Religious organizations' (8131) within 'Religious, grant-making, civic, and professional and similar organizations' (813), 'Private households' (814), 'Federal, government public administration' (911), 'Provincial and territorial public administration' (912) and 'International and other extra-territorial public administration' (919)."
+4,"The employment estimates from the Job Vacancy and Wage Survey (JVWS) are calibrated to the employment estimates from the <a href="http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=2612" rel="external noopener noreferrer" target="_blank">Survey of Employment, Payrolls and Hours (opens new window)</a> (SEPH) at the North American Industry Classification System sector (NAICS2) level by province. For this reason, JVWS employment may vary from SEPH at the subsector (NAICS3) level."
+9,"Due to the reduced sample size in the first quarter of 2015, the Finance and insurance (52) and Management of companies and enterprises (55) sectors were calibrated to a combined total from the <a href="http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=2612" rel="external noopener noreferrer" target="_blank">Survey of Employment, Payrolls and Hours (opens new window)</a>, for the first quarter of 2015 only."
+10,"Excludes 'Religious organizations' (8131) within 'Religious, grant-making, civic, and professional and similar organizations' (813) as well as 'Private households' (814)."
+11,"Excludes 'Federal, government public administration' (911), 'Provincial and territorial public administration' (912) and 'International and other extra-territorial public administration' (919)."
+5,"A job is vacant if it meets the following conditions: it is vacant on the reference date (first day of the month) or will become vacant during the month; there are tasks to be carried out during the month for the job in question; and the employer is actively seeking a worker outside the organization to fill the job. The jobs could be full-time, part-time, permanent, temporary, casual, or seasonal. Jobs reserved for subcontractors, external consultants, or other workers who are not considered employees, are excluded."
+6,"The 'employee' concept used in the Job Vacancy and Wage Survey (JVWS) is comprised of full-time employees, part-time employees, as well as permanent, casual, temporary, and seasonal employees. It also includes working owners, directors, partners, and other officers of incorporated businesses, as well as employees who work at home or on the road but report to the location. The ‘employee' concept used in the JVWS is meant to exclude owners or partners of unincorporated businesses and professional practices, the self-employed, subcontractors, external consultants, unpaid family workers, persons working outside Canada, and military personnel. It also excludes employees on unpaid leave, such as those on extended sick leave who are receiving insurance benefits."
+7,"The job vacancy rate is the number of job vacancies expressed as a percentage of labour demand; that is, all occupied and vacant jobs."
+8,"The average hourly wage offered by employers for vacant positions. It excludes overtime, tips, commissions and bonuses. Salaries are converted to hourly wages based on information regarding the frequency of pay and the expected average number of hours worked per week. The offered wage may be different from the actual wage paid once the position is filled. If the salary is different among the job vacancies for the same occupation, the respondent is asked to report the lowest wage or salary. When the compensation advertised for the job vacancy is in the form of a salary range or an hourly pay range, the respondent is asked to report the lowest value of the range. If the work will be paid based on, for example, the number of parts produced, mileage or the number of times a task is performed, the respondent is asked to report the expected minimum salary."
+
+
+
+"How to cite: Statistics Canada. Table 14-10-0442-01  Job vacancies, payroll employees, job vacancy rate, and average offered hourly wage by industry sub-sector, quarterly, unadjusted for seasonality"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410044201
