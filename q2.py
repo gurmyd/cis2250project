@@ -6,9 +6,7 @@ import argparse
 import sys
 import os
 
-# ─────────────────────────────────────────
-# Valid options
-# ─────────────────────────────────────────
+# Valid industry options, each of them are assigned a number with 5 being the average of all 4
 VALID_INDUSTRIES = {
     "1": "Construction [23]",
     "2": "Manufacturing [31-33]",
@@ -16,7 +14,7 @@ VALID_INDUSTRIES = {
     "4": "Health care and social assistance [62]",
     "5": "all"
 }
-
+# All valid provinces and territories
 VALID_PROVINCES = [
     "Newfoundland and Labrador",
     "Prince Edward Island",
@@ -33,9 +31,7 @@ VALID_PROVINCES = [
     "Nunavut"
 ]
 
-# ─────────────────────────────────────────
 # Argument Parsing
-# ─────────────────────────────────────────
 parser = argparse.ArgumentParser(
     description="Analyze relationship between wage growth and voter turnout across Canadian provinces."
 )
@@ -77,9 +73,7 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-# ─────────────────────────────────────────
-# Industry Selection — prompt if not given
-# ─────────────────────────────────────────
+# Defines a function which asks the user to input a valid industry using a number, loop continues until valid number is given
 def prompt_industry():
     print("\n" + "─" * 50)
     print("  Select an industry to analyze:")
@@ -97,7 +91,7 @@ def prompt_industry():
         else:
             print("  Invalid choice. Please enter a number between 1 and 5.")
 
-# Resolve industry from argument or prompt
+# Determines which industry user wants to check, if no argument is passed user is shown the menu again
 if args.industry is None:
     selected_industry = prompt_industry()
 elif args.industry in VALID_INDUSTRIES:
@@ -119,9 +113,8 @@ if args.province != "all" and args.province not in VALID_PROVINCES:
         print(f"  {p}")
     sys.exit(1)
 
-# ─────────────────────────────────────────
-# Load data
-# ─────────────────────────────────────────
+
+# Loading both if the csv files data
 print("\nLoading data...")
 
 if not os.path.exists(args.wages):
@@ -135,17 +128,17 @@ if not os.path.exists(args.turnout):
 wages_df = pd.read_csv(args.wages)
 turnout_df = pd.read_csv(args.turnout)
 
-# ─────────────────────────────────────────
-# Process wages
-# ─────────────────────────────────────────
+# Process wages, taking the 4 digits for year from REF_DATE
 wages_df["YEAR"] = wages_df["REF_DATE"].str[:4].astype(int)
 
+# Filter for the selected industry, or if user picks option five average all of the industries
 if selected_industry != "all":
     wages_df = wages_df[wages_df["NAICS"] == selected_industry]
     industry_label = selected_industry
 else:
     industry_label = "All Industries (Average)"
 
+# Average the quarterly wages for each year to get an average annual wage
 wages_avg = (
     wages_df.groupby(["GEO", "YEAR"])["VALUE"]
     .mean()
@@ -159,18 +152,14 @@ wages_2021 = wages_avg[wages_avg["YEAR"] == 2021][["province", "avg_wage"]].rena
 wages_merged = pd.merge(wages_2019, wages_2021, on="province")
 wages_merged["wage_change"] = wages_merged["wage_2021"] - wages_merged["wage_2019"]
 
-# ─────────────────────────────────────────
 # Merge wages with turnout
-# ─────────────────────────────────────────
 merged = pd.merge(wages_merged, turnout_df, on="province")
 
 if merged.empty:
     print("ERROR: No matching data found after merging. Check that province names match between files.")
     sys.exit(1)
 
-# ─────────────────────────────────────────
 # Print summary table
-# ─────────────────────────────────────────
 print(f"\n{'─'*75}")
 print(f"  Industry: {industry_label}")
 print(f"{'─'*75}")
@@ -186,9 +175,8 @@ for _, row in merged.sort_values("wage_change", ascending=False).iterrows():
     )
 print(f"{'─'*75}\n")
 
-# ─────────────────────────────────────────
-# Visualization
-# ─────────────────────────────────────────
+# This part is used to generate the scatter plot graph, each dot will represent one province/territory
+# X axis = wage change ($/hr), and the Y axis = turnout change (%)
 fig, ax = plt.subplots(figsize=(11, 7))
 
 colors = []
@@ -212,7 +200,7 @@ ax.scatter(
     zorder=3
 )
 
-# Label each province
+# Label each dot with the name of the province/territory
 for _, row in merged.iterrows():
     ax.annotate(
         row["province"],
@@ -223,7 +211,8 @@ for _, row in merged.iterrows():
         color="#333333"
     )
 
-# Trend line
+# Using numpy polyfit here to draw a line of best fit on the graph 
+#
 z = np.polyfit(merged["wage_change"], merged["turnout_change"], 1)
 p = np.poly1d(z)
 x_line = np.linspace(merged["wage_change"].min() - 0.5, merged["wage_change"].max() + 0.5, 100)
@@ -234,7 +223,7 @@ ax.plot(x_line, p(x_line), color="#e63946", linewidth=1.4,
 ax.axhline(0, color="gray", linewidth=0.7, linestyle="--", alpha=0.4)
 ax.axvline(0, color="gray", linewidth=0.7, linestyle="--", alpha=0.4)
 
-# Axis labels and title
+# Creating the axis labels and formatting the labels and title
 ax.set_xlabel("Average Wage Change 2019 → 2021 (CAD/hr)", fontsize=11)
 ax.set_ylabel("Voter Turnout Change 2019 → 2021 (%)", fontsize=11)
 ax.set_title(
@@ -262,7 +251,7 @@ ax.legend(handles=legend_handles, fontsize=9)
 
 plt.tight_layout()
 
-# Save chart with industry name in filename
+# Save chart with industry name in filename, creating a unique file without overwriting previous ones
 safe_name = industry_label.replace(" ", "_").replace("/", "-").replace("[", "").replace("]", "").replace(",", "")
 output_filename = f"wage_vs_turnout_{safe_name}.png"
 plt.savefig(output_filename, dpi=150, bbox_inches="tight")
