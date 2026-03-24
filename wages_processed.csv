@@ -1,0 +1,370 @@
+REF_DATE,GEO,NAICS,MEASURE,VALUE
+2019-01,Newfoundland and Labrador,Construction [23],Average offered hourly wage,22.75
+2019-01,Newfoundland and Labrador,Manufacturing [31-33],Average offered hourly wage,27.15
+2019-01,Newfoundland and Labrador,Retail trade [44-45],Average offered hourly wage,13.5
+2019-01,Newfoundland and Labrador,Health care and social assistance [62],Average offered hourly wage,26.75
+2019-01,Prince Edward Island,Manufacturing [31-33],Average offered hourly wage,16.0
+2019-01,Prince Edward Island,Retail trade [44-45],Average offered hourly wage,13.6
+2019-01,Prince Edward Island,Health care and social assistance [62],Average offered hourly wage,17.8
+2019-01,Nova Scotia,Construction [23],Average offered hourly wage,19.95
+2019-01,Nova Scotia,Manufacturing [31-33],Average offered hourly wage,18.8
+2019-01,Nova Scotia,Retail trade [44-45],Average offered hourly wage,14.2
+2019-01,Nova Scotia,Health care and social assistance [62],Average offered hourly wage,22.1
+2019-01,New Brunswick,Construction [23],Average offered hourly wage,17.8
+2019-01,New Brunswick,Manufacturing [31-33],Average offered hourly wage,15.05
+2019-01,New Brunswick,Retail trade [44-45],Average offered hourly wage,14.55
+2019-01,New Brunswick,Health care and social assistance [62],Average offered hourly wage,19.0
+2019-01,Quebec,Construction [23],Average offered hourly wage,24.25
+2019-01,Quebec,Manufacturing [31-33],Average offered hourly wage,21.1
+2019-01,Quebec,Retail trade [44-45],Average offered hourly wage,14.65
+2019-01,Quebec,Health care and social assistance [62],Average offered hourly wage,20.55
+2019-01,Ontario,Construction [23],Average offered hourly wage,23.75
+2019-01,Ontario,Manufacturing [31-33],Average offered hourly wage,22.6
+2019-01,Ontario,Retail trade [44-45],Average offered hourly wage,16.65
+2019-01,Ontario,Health care and social assistance [62],Average offered hourly wage,25.1
+2019-01,Manitoba,Construction [23],Average offered hourly wage,19.55
+2019-01,Manitoba,Manufacturing [31-33],Average offered hourly wage,22.05
+2019-01,Manitoba,Retail trade [44-45],Average offered hourly wage,15.85
+2019-01,Manitoba,Health care and social assistance [62],Average offered hourly wage,23.45
+2019-01,Saskatchewan,Construction [23],Average offered hourly wage,21.05
+2019-01,Saskatchewan,Manufacturing [31-33],Average offered hourly wage,22.9
+2019-01,Saskatchewan,Retail trade [44-45],Average offered hourly wage,14.8
+2019-01,Saskatchewan,Health care and social assistance [62],Average offered hourly wage,24.95
+2019-01,Alberta,Construction [23],Average offered hourly wage,27.45
+2019-01,Alberta,Manufacturing [31-33],Average offered hourly wage,27.05
+2019-01,Alberta,Retail trade [44-45],Average offered hourly wage,16.95
+2019-01,Alberta,Health care and social assistance [62],Average offered hourly wage,23.05
+2019-01,British Columbia,Construction [23],Average offered hourly wage,24.1
+2019-01,British Columbia,Manufacturing [31-33],Average offered hourly wage,22.7
+2019-01,British Columbia,Retail trade [44-45],Average offered hourly wage,16.0
+2019-01,British Columbia,Health care and social assistance [62],Average offered hourly wage,24.7
+2019-01,Yukon,Construction [23],Average offered hourly wage,31.1
+2019-01,Yukon,Retail trade [44-45],Average offered hourly wage,18.15
+2019-01,Yukon,Health care and social assistance [62],Average offered hourly wage,26.55
+2019-01,Northwest Territories,Construction [23],Average offered hourly wage,34.65
+2019-01,Northwest Territories,Retail trade [44-45],Average offered hourly wage,19.7
+2019-01,Northwest Territories,Health care and social assistance [62],Average offered hourly wage,28.15
+2019-04,Newfoundland and Labrador,Construction [23],Average offered hourly wage,18.85
+2019-04,Newfoundland and Labrador,Manufacturing [31-33],Average offered hourly wage,20.85
+2019-04,Newfoundland and Labrador,Retail trade [44-45],Average offered hourly wage,13.2
+2019-04,Newfoundland and Labrador,Health care and social assistance [62],Average offered hourly wage,26.3
+2019-04,Prince Edward Island,Manufacturing [31-33],Average offered hourly wage,15.8
+2019-04,Prince Edward Island,Retail trade [44-45],Average offered hourly wage,13.7
+2019-04,Prince Edward Island,Health care and social assistance [62],Average offered hourly wage,19.85
+2019-04,Nova Scotia,Construction [23],Average offered hourly wage,19.15
+2019-04,Nova Scotia,Manufacturing [31-33],Average offered hourly wage,18.25
+2019-04,Nova Scotia,Retail trade [44-45],Average offered hourly wage,13.45
+2019-04,Nova Scotia,Health care and social assistance [62],Average offered hourly wage,21.6
+2019-04,New Brunswick,Construction [23],Average offered hourly wage,17.6
+2019-04,New Brunswick,Manufacturing [31-33],Average offered hourly wage,16.45
+2019-04,New Brunswick,Retail trade [44-45],Average offered hourly wage,12.75
+2019-04,New Brunswick,Health care and social assistance [62],Average offered hourly wage,22.15
+2019-04,Quebec,Construction [23],Average offered hourly wage,24.35
+2019-04,Quebec,Manufacturing [31-33],Average offered hourly wage,20.6
+2019-04,Quebec,Retail trade [44-45],Average offered hourly wage,14.65
+2019-04,Quebec,Health care and social assistance [62],Average offered hourly wage,20.85
+2019-04,Ontario,Construction [23],Average offered hourly wage,23.25
+2019-04,Ontario,Manufacturing [31-33],Average offered hourly wage,22.35
+2019-04,Ontario,Retail trade [44-45],Average offered hourly wage,15.8
+2019-04,Ontario,Health care and social assistance [62],Average offered hourly wage,25.5
+2019-04,Manitoba,Construction [23],Average offered hourly wage,20.95
+2019-04,Manitoba,Manufacturing [31-33],Average offered hourly wage,21.6
+2019-04,Manitoba,Retail trade [44-45],Average offered hourly wage,14.8
+2019-04,Manitoba,Health care and social assistance [62],Average offered hourly wage,22.2
+2019-04,Saskatchewan,Construction [23],Average offered hourly wage,22.5
+2019-04,Saskatchewan,Manufacturing [31-33],Average offered hourly wage,23.4
+2019-04,Saskatchewan,Retail trade [44-45],Average offered hourly wage,14.9
+2019-04,Saskatchewan,Health care and social assistance [62],Average offered hourly wage,23.4
+2019-04,Alberta,Construction [23],Average offered hourly wage,27.75
+2019-04,Alberta,Manufacturing [31-33],Average offered hourly wage,26.75
+2019-04,Alberta,Retail trade [44-45],Average offered hourly wage,16.95
+2019-04,Alberta,Health care and social assistance [62],Average offered hourly wage,23.9
+2019-04,British Columbia,Construction [23],Average offered hourly wage,25.4
+2019-04,British Columbia,Manufacturing [31-33],Average offered hourly wage,22.9
+2019-04,British Columbia,Retail trade [44-45],Average offered hourly wage,15.45
+2019-04,British Columbia,Health care and social assistance [62],Average offered hourly wage,25.5
+2019-04,Yukon,Retail trade [44-45],Average offered hourly wage,15.1
+2019-04,Yukon,Health care and social assistance [62],Average offered hourly wage,31.05
+2019-04,Northwest Territories,Retail trade [44-45],Average offered hourly wage,18.4
+2019-04,Northwest Territories,Health care and social assistance [62],Average offered hourly wage,26.6
+2019-07,Newfoundland and Labrador,Construction [23],Average offered hourly wage,20.45
+2019-07,Newfoundland and Labrador,Manufacturing [31-33],Average offered hourly wage,27.25
+2019-07,Newfoundland and Labrador,Retail trade [44-45],Average offered hourly wage,13.55
+2019-07,Newfoundland and Labrador,Health care and social assistance [62],Average offered hourly wage,26.9
+2019-07,Prince Edward Island,Construction [23],Average offered hourly wage,16.45
+2019-07,Prince Edward Island,Manufacturing [31-33],Average offered hourly wage,14.4
+2019-07,Prince Edward Island,Retail trade [44-45],Average offered hourly wage,12.5
+2019-07,Prince Edward Island,Health care and social assistance [62],Average offered hourly wage,21.85
+2019-07,Nova Scotia,Construction [23],Average offered hourly wage,19.25
+2019-07,Nova Scotia,Manufacturing [31-33],Average offered hourly wage,18.55
+2019-07,Nova Scotia,Retail trade [44-45],Average offered hourly wage,13.3
+2019-07,Nova Scotia,Health care and social assistance [62],Average offered hourly wage,20.4
+2019-07,New Brunswick,Construction [23],Average offered hourly wage,18.4
+2019-07,New Brunswick,Manufacturing [31-33],Average offered hourly wage,15.2
+2019-07,New Brunswick,Retail trade [44-45],Average offered hourly wage,12.95
+2019-07,New Brunswick,Health care and social assistance [62],Average offered hourly wage,19.85
+2019-07,Quebec,Construction [23],Average offered hourly wage,25.7
+2019-07,Quebec,Manufacturing [31-33],Average offered hourly wage,20.55
+2019-07,Quebec,Retail trade [44-45],Average offered hourly wage,14.8
+2019-07,Quebec,Health care and social assistance [62],Average offered hourly wage,20.55
+2019-07,Ontario,Construction [23],Average offered hourly wage,22.85
+2019-07,Ontario,Manufacturing [31-33],Average offered hourly wage,21.55
+2019-07,Ontario,Retail trade [44-45],Average offered hourly wage,15.6
+2019-07,Ontario,Health care and social assistance [62],Average offered hourly wage,25.6
+2019-07,Manitoba,Construction [23],Average offered hourly wage,20.25
+2019-07,Manitoba,Manufacturing [31-33],Average offered hourly wage,21.2
+2019-07,Manitoba,Retail trade [44-45],Average offered hourly wage,14.8
+2019-07,Manitoba,Health care and social assistance [62],Average offered hourly wage,23.2
+2019-07,Saskatchewan,Construction [23],Average offered hourly wage,22.65
+2019-07,Saskatchewan,Manufacturing [31-33],Average offered hourly wage,23.9
+2019-07,Saskatchewan,Retail trade [44-45],Average offered hourly wage,16.1
+2019-07,Saskatchewan,Health care and social assistance [62],Average offered hourly wage,23.8
+2019-07,Alberta,Construction [23],Average offered hourly wage,24.55
+2019-07,Alberta,Manufacturing [31-33],Average offered hourly wage,27.25
+2019-07,Alberta,Retail trade [44-45],Average offered hourly wage,17.35
+2019-07,Alberta,Health care and social assistance [62],Average offered hourly wage,23.55
+2019-07,British Columbia,Construction [23],Average offered hourly wage,23.95
+2019-07,British Columbia,Manufacturing [31-33],Average offered hourly wage,22.45
+2019-07,British Columbia,Retail trade [44-45],Average offered hourly wage,16.3
+2019-07,British Columbia,Health care and social assistance [62],Average offered hourly wage,26.1
+2019-07,Yukon,Retail trade [44-45],Average offered hourly wage,14.9
+2019-07,Yukon,Health care and social assistance [62],Average offered hourly wage,25.35
+2019-07,Northwest Territories,Retail trade [44-45],Average offered hourly wage,17.3
+2019-07,Northwest Territories,Health care and social assistance [62],Average offered hourly wage,26.4
+2019-07,Nunavut,Retail trade [44-45],Average offered hourly wage,16.75
+2019-10,Newfoundland and Labrador,Construction [23],Average offered hourly wage,23.45
+2019-10,Newfoundland and Labrador,Manufacturing [31-33],Average offered hourly wage,26.9
+2019-10,Newfoundland and Labrador,Retail trade [44-45],Average offered hourly wage,12.4
+2019-10,Newfoundland and Labrador,Health care and social assistance [62],Average offered hourly wage,28.2
+2019-10,Prince Edward Island,Construction [23],Average offered hourly wage,19.65
+2019-10,Prince Edward Island,Manufacturing [31-33],Average offered hourly wage,17.55
+2019-10,Prince Edward Island,Retail trade [44-45],Average offered hourly wage,13.35
+2019-10,Prince Edward Island,Health care and social assistance [62],Average offered hourly wage,20.45
+2019-10,Nova Scotia,Construction [23],Average offered hourly wage,19.2
+2019-10,Nova Scotia,Manufacturing [31-33],Average offered hourly wage,17.55
+2019-10,Nova Scotia,Retail trade [44-45],Average offered hourly wage,13.9
+2019-10,Nova Scotia,Health care and social assistance [62],Average offered hourly wage,20.8
+2019-10,New Brunswick,Construction [23],Average offered hourly wage,18.8
+2019-10,New Brunswick,Manufacturing [31-33],Average offered hourly wage,15.3
+2019-10,New Brunswick,Retail trade [44-45],Average offered hourly wage,13.15
+2019-10,New Brunswick,Health care and social assistance [62],Average offered hourly wage,20.75
+2019-10,Quebec,Construction [23],Average offered hourly wage,27.25
+2019-10,Quebec,Manufacturing [31-33],Average offered hourly wage,21.3
+2019-10,Quebec,Retail trade [44-45],Average offered hourly wage,14.9
+2019-10,Quebec,Health care and social assistance [62],Average offered hourly wage,20.35
+2019-10,Ontario,Construction [23],Average offered hourly wage,23.3
+2019-10,Ontario,Manufacturing [31-33],Average offered hourly wage,22.6
+2019-10,Ontario,Retail trade [44-45],Average offered hourly wage,15.65
+2019-10,Ontario,Health care and social assistance [62],Average offered hourly wage,25.65
+2019-10,Manitoba,Construction [23],Average offered hourly wage,21.1
+2019-10,Manitoba,Manufacturing [31-33],Average offered hourly wage,22.6
+2019-10,Manitoba,Retail trade [44-45],Average offered hourly wage,16.3
+2019-10,Manitoba,Health care and social assistance [62],Average offered hourly wage,23.15
+2019-10,Saskatchewan,Construction [23],Average offered hourly wage,20.35
+2019-10,Saskatchewan,Manufacturing [31-33],Average offered hourly wage,25.4
+2019-10,Saskatchewan,Retail trade [44-45],Average offered hourly wage,15.65
+2019-10,Saskatchewan,Health care and social assistance [62],Average offered hourly wage,25.15
+2019-10,Alberta,Construction [23],Average offered hourly wage,26.55
+2019-10,Alberta,Manufacturing [31-33],Average offered hourly wage,28.65
+2019-10,Alberta,Retail trade [44-45],Average offered hourly wage,17.3
+2019-10,Alberta,Health care and social assistance [62],Average offered hourly wage,26.05
+2019-10,British Columbia,Construction [23],Average offered hourly wage,25.0
+2019-10,British Columbia,Manufacturing [31-33],Average offered hourly wage,23.35
+2019-10,British Columbia,Retail trade [44-45],Average offered hourly wage,15.5
+2019-10,British Columbia,Health care and social assistance [62],Average offered hourly wage,25.9
+2019-10,Yukon,Retail trade [44-45],Average offered hourly wage,15.8
+2019-10,Yukon,Health care and social assistance [62],Average offered hourly wage,24.1
+2019-10,Northwest Territories,Retail trade [44-45],Average offered hourly wage,16.55
+2019-10,Nunavut,Retail trade [44-45],Average offered hourly wage,17.75
+2021-01,Newfoundland and Labrador,Construction [23],Average offered hourly wage,27.85
+2021-01,Newfoundland and Labrador,Manufacturing [31-33],Average offered hourly wage,19.85
+2021-01,Newfoundland and Labrador,Retail trade [44-45],Average offered hourly wage,15.1
+2021-01,Newfoundland and Labrador,Health care and social assistance [62],Average offered hourly wage,25.1
+2021-01,Prince Edward Island,Construction [23],Average offered hourly wage,21.0
+2021-01,Prince Edward Island,Manufacturing [31-33],Average offered hourly wage,15.75
+2021-01,Prince Edward Island,Retail trade [44-45],Average offered hourly wage,14.45
+2021-01,Prince Edward Island,Health care and social assistance [62],Average offered hourly wage,22.95
+2021-01,Nova Scotia,Construction [23],Average offered hourly wage,19.85
+2021-01,Nova Scotia,Manufacturing [31-33],Average offered hourly wage,18.35
+2021-01,Nova Scotia,Retail trade [44-45],Average offered hourly wage,16.45
+2021-01,Nova Scotia,Health care and social assistance [62],Average offered hourly wage,23.95
+2021-01,New Brunswick,Construction [23],Average offered hourly wage,20.35
+2021-01,New Brunswick,Manufacturing [31-33],Average offered hourly wage,18.55
+2021-01,New Brunswick,Retail trade [44-45],Average offered hourly wage,13.25
+2021-01,New Brunswick,Health care and social assistance [62],Average offered hourly wage,23.75
+2021-01,Quebec,Construction [23],Average offered hourly wage,27.3
+2021-01,Quebec,Manufacturing [31-33],Average offered hourly wage,20.9
+2021-01,Quebec,Retail trade [44-45],Average offered hourly wage,16.1
+2021-01,Quebec,Health care and social assistance [62],Average offered hourly wage,22.0
+2021-01,Ontario,Construction [23],Average offered hourly wage,24.35
+2021-01,Ontario,Manufacturing [31-33],Average offered hourly wage,22.8
+2021-01,Ontario,Retail trade [44-45],Average offered hourly wage,17.5
+2021-01,Ontario,Health care and social assistance [62],Average offered hourly wage,25.8
+2021-01,Manitoba,Construction [23],Average offered hourly wage,22.2
+2021-01,Manitoba,Manufacturing [31-33],Average offered hourly wage,21.15
+2021-01,Manitoba,Retail trade [44-45],Average offered hourly wage,15.15
+2021-01,Manitoba,Health care and social assistance [62],Average offered hourly wage,23.2
+2021-01,Saskatchewan,Construction [23],Average offered hourly wage,26.05
+2021-01,Saskatchewan,Manufacturing [31-33],Average offered hourly wage,21.1
+2021-01,Saskatchewan,Retail trade [44-45],Average offered hourly wage,16.55
+2021-01,Saskatchewan,Health care and social assistance [62],Average offered hourly wage,25.7
+2021-01,Alberta,Construction [23],Average offered hourly wage,27.0
+2021-01,Alberta,Manufacturing [31-33],Average offered hourly wage,24.95
+2021-01,Alberta,Retail trade [44-45],Average offered hourly wage,17.45
+2021-01,Alberta,Health care and social assistance [62],Average offered hourly wage,25.45
+2021-01,British Columbia,Construction [23],Average offered hourly wage,26.75
+2021-01,British Columbia,Manufacturing [31-33],Average offered hourly wage,23.85
+2021-01,British Columbia,Retail trade [44-45],Average offered hourly wage,17.8
+2021-01,British Columbia,Health care and social assistance [62],Average offered hourly wage,27.85
+2021-01,Yukon,Manufacturing [31-33],Average offered hourly wage,27.45
+2021-01,Yukon,Retail trade [44-45],Average offered hourly wage,18.6
+2021-01,Yukon,Health care and social assistance [62],Average offered hourly wage,29.6
+2021-01,Northwest Territories,Construction [23],Average offered hourly wage,39.65
+2021-01,Northwest Territories,Retail trade [44-45],Average offered hourly wage,17.2
+2021-01,Northwest Territories,Health care and social assistance [62],Average offered hourly wage,34.1
+2021-01,Nunavut,Health care and social assistance [62],Average offered hourly wage,31.85
+2021-04,Newfoundland and Labrador,Construction [23],Average offered hourly wage,24.2
+2021-04,Newfoundland and Labrador,Manufacturing [31-33],Average offered hourly wage,18.85
+2021-04,Newfoundland and Labrador,Retail trade [44-45],Average offered hourly wage,15.25
+2021-04,Prince Edward Island,Construction [23],Average offered hourly wage,21.45
+2021-04,Prince Edward Island,Manufacturing [31-33],Average offered hourly wage,15.95
+2021-04,Prince Edward Island,Retail trade [44-45],Average offered hourly wage,16.75
+2021-04,Prince Edward Island,Health care and social assistance [62],Average offered hourly wage,24.15
+2021-04,Nova Scotia,Construction [23],Average offered hourly wage,20.85
+2021-04,Nova Scotia,Manufacturing [31-33],Average offered hourly wage,18.5
+2021-04,Nova Scotia,Retail trade [44-45],Average offered hourly wage,14.65
+2021-04,Nova Scotia,Health care and social assistance [62],Average offered hourly wage,23.75
+2021-04,New Brunswick,Construction [23],Average offered hourly wage,18.65
+2021-04,New Brunswick,Manufacturing [31-33],Average offered hourly wage,17.2
+2021-04,New Brunswick,Retail trade [44-45],Average offered hourly wage,13.05
+2021-04,New Brunswick,Health care and social assistance [62],Average offered hourly wage,24.35
+2021-04,Quebec,Construction [23],Average offered hourly wage,27.5
+2021-04,Quebec,Manufacturing [31-33],Average offered hourly wage,21.55
+2021-04,Quebec,Retail trade [44-45],Average offered hourly wage,15.8
+2021-04,Quebec,Health care and social assistance [62],Average offered hourly wage,22.25
+2021-04,Ontario,Construction [23],Average offered hourly wage,26.1
+2021-04,Ontario,Manufacturing [31-33],Average offered hourly wage,22.25
+2021-04,Ontario,Retail trade [44-45],Average offered hourly wage,17.3
+2021-04,Ontario,Health care and social assistance [62],Average offered hourly wage,26.1
+2021-04,Manitoba,Construction [23],Average offered hourly wage,21.6
+2021-04,Manitoba,Manufacturing [31-33],Average offered hourly wage,21.2
+2021-04,Manitoba,Retail trade [44-45],Average offered hourly wage,14.9
+2021-04,Manitoba,Health care and social assistance [62],Average offered hourly wage,22.3
+2021-04,Saskatchewan,Construction [23],Average offered hourly wage,22.95
+2021-04,Saskatchewan,Manufacturing [31-33],Average offered hourly wage,23.3
+2021-04,Saskatchewan,Retail trade [44-45],Average offered hourly wage,15.5
+2021-04,Saskatchewan,Health care and social assistance [62],Average offered hourly wage,25.25
+2021-04,Alberta,Construction [23],Average offered hourly wage,26.35
+2021-04,Alberta,Manufacturing [31-33],Average offered hourly wage,24.85
+2021-04,Alberta,Retail trade [44-45],Average offered hourly wage,17.0
+2021-04,Alberta,Health care and social assistance [62],Average offered hourly wage,22.8
+2021-04,British Columbia,Construction [23],Average offered hourly wage,26.0
+2021-04,British Columbia,Manufacturing [31-33],Average offered hourly wage,22.7
+2021-04,British Columbia,Retail trade [44-45],Average offered hourly wage,18.05
+2021-04,British Columbia,Health care and social assistance [62],Average offered hourly wage,29.1
+2021-04,Yukon,Construction [23],Average offered hourly wage,27.65
+2021-04,Yukon,Manufacturing [31-33],Average offered hourly wage,19.65
+2021-04,Yukon,Retail trade [44-45],Average offered hourly wage,17.95
+2021-04,Yukon,Health care and social assistance [62],Average offered hourly wage,36.9
+2021-04,Northwest Territories,Construction [23],Average offered hourly wage,33.6
+2021-04,Northwest Territories,Retail trade [44-45],Average offered hourly wage,22.2
+2021-04,Northwest Territories,Health care and social assistance [62],Average offered hourly wage,37.75
+2021-04,Nunavut,Construction [23],Average offered hourly wage,34.5
+2021-07,Newfoundland and Labrador,Construction [23],Average offered hourly wage,21.2
+2021-07,Newfoundland and Labrador,Manufacturing [31-33],Average offered hourly wage,18.65
+2021-07,Newfoundland and Labrador,Retail trade [44-45],Average offered hourly wage,14.35
+2021-07,Newfoundland and Labrador,Health care and social assistance [62],Average offered hourly wage,25.45
+2021-07,Prince Edward Island,Construction [23],Average offered hourly wage,20.55
+2021-07,Prince Edward Island,Manufacturing [31-33],Average offered hourly wage,16.25
+2021-07,Prince Edward Island,Retail trade [44-45],Average offered hourly wage,16.55
+2021-07,Prince Edward Island,Health care and social assistance [62],Average offered hourly wage,21.2
+2021-07,Nova Scotia,Construction [23],Average offered hourly wage,19.85
+2021-07,Nova Scotia,Manufacturing [31-33],Average offered hourly wage,19.25
+2021-07,Nova Scotia,Retail trade [44-45],Average offered hourly wage,14.35
+2021-07,Nova Scotia,Health care and social assistance [62],Average offered hourly wage,22.7
+2021-07,New Brunswick,Construction [23],Average offered hourly wage,19.35
+2021-07,New Brunswick,Manufacturing [31-33],Average offered hourly wage,16.95
+2021-07,New Brunswick,Retail trade [44-45],Average offered hourly wage,14.2
+2021-07,New Brunswick,Health care and social assistance [62],Average offered hourly wage,24.05
+2021-07,Quebec,Construction [23],Average offered hourly wage,28.05
+2021-07,Quebec,Manufacturing [31-33],Average offered hourly wage,21.65
+2021-07,Quebec,Retail trade [44-45],Average offered hourly wage,16.05
+2021-07,Quebec,Health care and social assistance [62],Average offered hourly wage,22.4
+2021-07,Ontario,Construction [23],Average offered hourly wage,25.5
+2021-07,Ontario,Manufacturing [31-33],Average offered hourly wage,22.15
+2021-07,Ontario,Retail trade [44-45],Average offered hourly wage,16.65
+2021-07,Ontario,Health care and social assistance [62],Average offered hourly wage,25.65
+2021-07,Manitoba,Construction [23],Average offered hourly wage,22.2
+2021-07,Manitoba,Manufacturing [31-33],Average offered hourly wage,20.65
+2021-07,Manitoba,Retail trade [44-45],Average offered hourly wage,14.55
+2021-07,Manitoba,Health care and social assistance [62],Average offered hourly wage,22.55
+2021-07,Saskatchewan,Construction [23],Average offered hourly wage,25.1
+2021-07,Saskatchewan,Manufacturing [31-33],Average offered hourly wage,22.0
+2021-07,Saskatchewan,Retail trade [44-45],Average offered hourly wage,15.2
+2021-07,Saskatchewan,Health care and social assistance [62],Average offered hourly wage,24.5
+2021-07,Alberta,Construction [23],Average offered hourly wage,27.85
+2021-07,Alberta,Manufacturing [31-33],Average offered hourly wage,24.7
+2021-07,Alberta,Retail trade [44-45],Average offered hourly wage,17.7
+2021-07,Alberta,Health care and social assistance [62],Average offered hourly wage,24.45
+2021-07,British Columbia,Construction [23],Average offered hourly wage,28.5
+2021-07,British Columbia,Manufacturing [31-33],Average offered hourly wage,21.75
+2021-07,British Columbia,Retail trade [44-45],Average offered hourly wage,18.35
+2021-07,British Columbia,Health care and social assistance [62],Average offered hourly wage,28.5
+2021-07,Yukon,Construction [23],Average offered hourly wage,26.8
+2021-07,Yukon,Retail trade [44-45],Average offered hourly wage,18.25
+2021-07,Yukon,Health care and social assistance [62],Average offered hourly wage,28.7
+2021-07,Northwest Territories,Construction [23],Average offered hourly wage,31.3
+2021-07,Northwest Territories,Retail trade [44-45],Average offered hourly wage,17.2
+2021-07,Northwest Territories,Health care and social assistance [62],Average offered hourly wage,32.25
+2021-07,Nunavut,Construction [23],Average offered hourly wage,36.8
+2021-07,Nunavut,Retail trade [44-45],Average offered hourly wage,21.6
+2021-07,Nunavut,Health care and social assistance [62],Average offered hourly wage,22.8
+2021-10,Newfoundland and Labrador,Construction [23],Average offered hourly wage,23.3
+2021-10,Newfoundland and Labrador,Manufacturing [31-33],Average offered hourly wage,24.0
+2021-10,Newfoundland and Labrador,Retail trade [44-45],Average offered hourly wage,16.95
+2021-10,Newfoundland and Labrador,Health care and social assistance [62],Average offered hourly wage,23.45
+2021-10,Prince Edward Island,Construction [23],Average offered hourly wage,21.0
+2021-10,Prince Edward Island,Manufacturing [31-33],Average offered hourly wage,17.6
+2021-10,Prince Edward Island,Retail trade [44-45],Average offered hourly wage,15.55
+2021-10,Prince Edward Island,Health care and social assistance [62],Average offered hourly wage,24.2
+2021-10,Nova Scotia,Construction [23],Average offered hourly wage,22.05
+2021-10,Nova Scotia,Manufacturing [31-33],Average offered hourly wage,18.55
+2021-10,Nova Scotia,Retail trade [44-45],Average offered hourly wage,14.45
+2021-10,Nova Scotia,Health care and social assistance [62],Average offered hourly wage,22.7
+2021-10,New Brunswick,Construction [23],Average offered hourly wage,22.15
+2021-10,New Brunswick,Manufacturing [31-33],Average offered hourly wage,17.65
+2021-10,New Brunswick,Retail trade [44-45],Average offered hourly wage,13.35
+2021-10,New Brunswick,Health care and social assistance [62],Average offered hourly wage,22.75
+2021-10,Quebec,Construction [23],Average offered hourly wage,27.6
+2021-10,Quebec,Manufacturing [31-33],Average offered hourly wage,21.95
+2021-10,Quebec,Retail trade [44-45],Average offered hourly wage,16.15
+2021-10,Quebec,Health care and social assistance [62],Average offered hourly wage,22.4
+2021-10,Ontario,Construction [23],Average offered hourly wage,26.65
+2021-10,Ontario,Manufacturing [31-33],Average offered hourly wage,22.75
+2021-10,Ontario,Retail trade [44-45],Average offered hourly wage,16.8
+2021-10,Ontario,Health care and social assistance [62],Average offered hourly wage,26.35
+2021-10,Manitoba,Construction [23],Average offered hourly wage,23.55
+2021-10,Manitoba,Manufacturing [31-33],Average offered hourly wage,19.95
+2021-10,Manitoba,Retail trade [44-45],Average offered hourly wage,14.45
+2021-10,Manitoba,Health care and social assistance [62],Average offered hourly wage,23.3
+2021-10,Saskatchewan,Construction [23],Average offered hourly wage,25.35
+2021-10,Saskatchewan,Manufacturing [31-33],Average offered hourly wage,23.45
+2021-10,Saskatchewan,Retail trade [44-45],Average offered hourly wage,15.35
+2021-10,Saskatchewan,Health care and social assistance [62],Average offered hourly wage,25.15
+2021-10,Alberta,Construction [23],Average offered hourly wage,26.65
+2021-10,Alberta,Manufacturing [31-33],Average offered hourly wage,25.7
+2021-10,Alberta,Retail trade [44-45],Average offered hourly wage,18.05
+2021-10,Alberta,Health care and social assistance [62],Average offered hourly wage,23.35
+2021-10,British Columbia,Construction [23],Average offered hourly wage,27.65
+2021-10,British Columbia,Manufacturing [31-33],Average offered hourly wage,23.5
+2021-10,British Columbia,Retail trade [44-45],Average offered hourly wage,17.9
+2021-10,British Columbia,Health care and social assistance [62],Average offered hourly wage,28.25
+2021-10,Yukon,Construction [23],Average offered hourly wage,31.1
+2021-10,Yukon,Manufacturing [31-33],Average offered hourly wage,20.3
+2021-10,Yukon,Retail trade [44-45],Average offered hourly wage,19.05
+2021-10,Yukon,Health care and social assistance [62],Average offered hourly wage,27.55
+2021-10,Northwest Territories,Construction [23],Average offered hourly wage,27.55
+2021-10,Northwest Territories,Retail trade [44-45],Average offered hourly wage,19.95
+2021-10,Northwest Territories,Health care and social assistance [62],Average offered hourly wage,39.55
+2021-10,Nunavut,Retail trade [44-45],Average offered hourly wage,19.55
+2021-10,Nunavut,Health care and social assistance [62],Average offered hourly wage,23.85
