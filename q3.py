@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import os
 import numpy as np
 
+
 # Function that loads the census data
 def loadCensus(fileLocation):
 
@@ -122,12 +123,14 @@ def main():
     # Get the line of best fit by finding the slope and intercept of the line
     slope, intercept = np.polyfit(x_np, y_np, 1)
 
-    # Create 100 evenly spaced points across the X-axis range, then calculate the corresponding y values using y = mx + b
-    x_line = np.linspace(min(x_np), max(x_np), 100)
+    # Create margin values to properly center the graph visually
+    x_margin = (max(x_np) - min(x_np)) * 0.1 
+    y_margin = (max(y_np) - min(y_np)) * 0.1
+
+    # Create 100 evenly spaced points across the X-axis range with margin, then calculate the corresponding y values using y = mx + b 
+    x_line = np.linspace(min(x_np) - x_margin, max(x_np) + x_margin, 100)
     y_line = slope * x_line + intercept
 
-
-    
     # Initialize the plot with a specific size and a light gray background
     fig, ax = plt.subplots(figsize=(10, 6))
     ax.set_facecolor('#f7f7f7')
@@ -155,9 +158,16 @@ def main():
     ax.spines['top'].set_visible(False)
     ax.spines['right'].set_visible(False)
 
-    # Draw solid lines for the X and Y axes
-    ax.axhline(0, linewidth=1)
-    ax.axvline(0, linewidth=1)
+    # Draw solid lines for the X and Y axes only if they are inside the data range 
+    if min(y_np) < 0 < max(y_np):  
+        ax.axhline(0, linewidth=1)
+
+    if min(x_np) < 0 < max(x_np):
+        ax.axvline(0, linewidth=1)
+
+    # Set axis limits so the graph is centered properly instead of being shifted 
+    ax.set_xlim(min(x_np) - x_margin, max(x_np) + x_margin)
+    ax.set_ylim(min(y_np) - y_margin, max(y_np) + y_margin)
 
     # Adjust padding so that nothing gets cut off
     plt.tight_layout()
@@ -175,6 +185,7 @@ def main():
 
     # Tell the user that the graph was successfully added to the folder and created
     print("Graph successfully generated and saved in 'Q3 Results' folder")
+
 
 # To run the code
 if __name__ == "__main__":

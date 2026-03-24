@@ -1,15 +1,14 @@
-location,naturalized_citizens,non_naturalized_immigrants,total_immigrant_population,total_population
-Canada,6101105,2260400,8361505,36328475
-Ontario,3195945,1010640,4206585,14031755
-British Columbia,1039820,385895,1425715,4915940
-Quebec,898110,312485,1210595,8308480
-Alberta,650795,320180,970975,4177715
-Manitoba,160495,97125,257620,1307190
-Saskatchewan,71880,65735,137615,1103205
-Nova Scotia,41630,29940,71570,955855
-New Brunswick,22040,22085,44125,759195
-Newfoundland and Labrador,8245,6005,14250,502100
-Prince Edward Island,5405,6360,11765,150480
-Yukon,3270,2110,5380,39585
-Northwest Territories,2665,1485,4150,40380
-Nunavut,820,345,1165,36605
+location,remote_work_rate,commute_time,mobility_rate
+Newfoundland and Labrador,12.98,18.25,33.45
+Prince Edward Island,14.93,19.02,44.62
+Nova Scotia,20.73,21.56,42.12
+New Brunswick,15.93,19.31,39.77
+Quebec,21.89,25.09,44.07
+Ontario,29.72,27.04,41.43
+Manitoba,17.05,22.24,41.88
+Saskatchewan,18.44,18.81,40.6
+Alberta,21.98,23.56,44.41
+British Columbia,22.59,24.78,49.13
+Yukon,11.37,17.03,49.43
+Northwest Territories,9.66,12.39,46.54
+Nunavut,7.28,10.01,41.41
